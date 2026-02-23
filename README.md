@@ -8,7 +8,7 @@
 ---
 
 Hi, I'm Anugrah Nair, a Health Informatics graduate student at Northeastern University with a clinical background as a dental surgeon who has treated over 1,000 patients across India.
-What sets me apart is that I've been on both sides of healthcare. I've experienced firsthand the inefficiencies in clinical workflows, from fragmented patient records to manual data entry, and now I'm building the technical skills to solve those problems. During my IT internship at Dar Al Shifa Hospital in Kuwait, I managed EHR systems and reduced medication history access time by 85% through data validation and system optimization.
+What sets me apart is that I've been on both sides of healthcare. I've experienced firsthand the inefficiencies in clinical workflows, from fragmented patient records to manual data entry, and now I'm building the technical skills to solve those problems. 
 
 My toolkit spans SQL, Python, R, Tableau, and Power BI, and I've applied these across projects ranging from maternal mortality analysis using CDC data to building a HIPAA-compliant telehealth platform for a Texas-based startup. I don't just analyze healthcare data; I understand the clinical context behind it, which means I can bridge the gap between what clinicians need and what technology can deliver.
 
